@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangguy&label=Profile%20views&color=0e75b6&style=flat" alt="rangguy" /> </p>
 
-- 🌱 I’m currently learning **Flutter, NodeJS, Go, Machine Learning**
+- 🌱 I’m currently learning **Flutter, NodeJS, Laravel, Go, Machine Learning**
 
 - 💬 Ask me about **Mobile, Backend**
 
