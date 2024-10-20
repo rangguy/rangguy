@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rangga Dwi Mahendra</h1>
-<h3 align="center">A passionate Backend and Mobile Developer from Indonesia</h3>
+<h1 align="center" style="color: #fff;">Hi 👋, I'm Rangga Dwi Mahendra</h1>
+<h3 align="center" style="color: #fff;">A passionate Backend and Mobile Developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rangguy&label=Profile%20views&color=0e75b6&style=flat" alt="rangguy" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rangguy&label=Profile%20views&color=0e75b6&style=flat-square" alt="rangguy" /> 
+</p>
 
 - 🌱 I’m currently learning **Flutter, NodeJS, Laravel, Go, Machine Learning**
 - 💬 Ask me about **Mobile, Backend Development**
@@ -12,7 +14,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #fff;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ranggadwimahendra/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rangga Dwi Mahendra" height="30" width="40" />
@@ -21,7 +23,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #fff;">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -78,8 +80,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangguy&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangguy&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangguy&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangguy&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangguy&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangguy&theme=dark" alt="GitHub Streak" /></p>
