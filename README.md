@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Flutter, NodeJS, Laravel, Go, Machine Learning**
 - 💬 Ask me about **Mobile, Backend Development**
 - 📫 How to reach me: **ranggadwi100@gmail.com**
-- ⚡ Fun fact: **Single from the beginning**
 
 ---
 
