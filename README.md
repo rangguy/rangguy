@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter, NodeJS, Laravel, Go, Machine Learning**
-- 💬 Ask me about **Mobile, Backend Development**
+- 💬 Ask me about **Web Development, Backend Development, Mobile Development**
 - 📫 How to reach me: **ranggadwi100@gmail.com**
 
 ---
