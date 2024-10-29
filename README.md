@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=rangguy&label=Profile%20views&color=0e75b6&style=flat-square" alt="rangguy" /> 
 </p>
 
-- 🌱 I’m currently learning **Flutter, NodeJS, Laravel, Go, Machine Learning**
+- 🌱 I’m currently learning **Go, Laravel, Flutter, NodeJS, Machine Learning**
 - 💬 Ask me about **Web Development, Backend Development, Mobile Development**
 - 📫 How to reach me: **ranggadwi100@gmail.com**
 
