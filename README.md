@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Rangga Dwi Mahendra</h1>
-<h3 align="center" style="color: #fff;">A passionate Backend and Mobile Developer from Indonesia</h3>
+<h3 align="center" style="color: #fff;">A passionate Web and Backend Developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
